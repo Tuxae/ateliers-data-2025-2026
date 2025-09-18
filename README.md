@@ -1,14 +1,13 @@
-# Ateliers Data Tuxae 2024-2025
+# Ateliers Data & ML 2025-2026
 
 _Rémy SIAHAAN--GENSOLLEN_
 
 Ce dépôt contient quelques ressources relatives aux ateliers que j'ai organisés 
-pour l'association Tuxae durant l'année scolaire 2024-2025 à l'ENSAE Paris.
+pour l'association Tuxae durant l'année scolaire 2025-2026 à l'ENSAE Paris.
 Il est loin d'être complet, mais comprend notamment les jeux de données 
 utilisés, des slides ainsi que quelques extraits de code. Ces ressources 
-s'adressent principalement aux premières années et à des personnes n'ayant 
-jamais fait de science des données, bien que mon ambition soit de 
-progressivement élever le niveau.
+s'adressent principalement aux premières et deuxièmes années, la technicité
+des sujets abordés évoluant progressivement.
 
 Les outils utilisés sont principalement des jeux de données publics 
 (Kaggle, UC Irvine Machine Learning Repository, etc.), souvent 
@@ -18,9 +17,9 @@ direct dans un environnement Jupyter hébergé sur le
 
 Ci-dessous un sommaire résumant très succinctement les ateliers :
 
-### 0 - Présentation de la Data Science et du Machine Learning
+### 0 - Introduction
 
-Petit atelier de présentation. Les slides ne sont pas complètes.
+Introduction à l'IA. Premier atelier pratique sur la classification avec kNN.
 
 ### 1 - Introduction à la classification
 

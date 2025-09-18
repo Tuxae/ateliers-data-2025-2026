@@ -1,5 +1,6 @@
-# Atelier 0
+# Atelier 0 
 
-### Présentation de la Data Science et du Machine Learning
+### Introduction
 
-Petit atelier de présentation. Les slides ne sont pas complètes.
+Introduction à l'IA. 
+Premier atelier pratique sur la classification avec kNN.
