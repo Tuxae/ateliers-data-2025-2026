@@ -21,33 +21,12 @@ Ci-dessous un sommaire résumant très succinctement les ateliers :
 
 Introduction à l'IA. Premier atelier pratique sur la classification avec kNN.
 
-### 1 - Introduction à la classification
+### 1 - Prédire un cancer du sein ?
 
-Présentation d'une tâche de classification concrète. Présentation du kNN classique
-(distance euclidienne, implémentation naïve), et code "à la main" (avec numpy).
-
-- _Cortez, P., Cerdeira, A., Almeida, F., Matos, T., & Reis, J. (2009). 
-Wine Quality [Dataset]._ UCI Machine Learning Repository.
-https://doi.org/10.24432/C56S3T.
-
-- _Fisher, R. (1936). Iris [Dataset]._ UCI Machine Learning Repository.
-https://doi.org/10.24432/C56C76.
-
-### 2 - Classification. Prédire un cancer du sein ?
-
-Approfondissements sur la classification. Brève présentation historique
+Brève présentation historique
 du problème de la détection du cancer du sein, apport de la data. Introduction
 aux concepts de validation croisée (train-test-split, K-Fold, stratification...).
 Introduction au concept d'hyper-paramètre et hyper-parameter tunning (pas encore 
 de grid search quelconque, juste une boucle). Autres métriques classiques pour la
 classification binaire (précision, rappel, f1). Standardisation, normalisation.
 Mention des questions d'interprétabilité et de réduction de dimension.
-
-- _Wolberg, W., Mangasarian, O., Street, N., & Street, W. (1993).
-Breast Cancer Wisconsin (Diagnostic) [Dataset]._
-UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B.
-
-### 3 - Régression. Prédire le prix des maisons ?
-
-- _Dean De Cock, Anna Montoya and DataCanary. House Prices (2016) - Advanced Regression Techniques._
-Kaggle. https://kaggle.com/competitions/house-prices-advanced-regression-techniques
