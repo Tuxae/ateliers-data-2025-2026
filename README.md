@@ -21,12 +21,18 @@ Ci-dessous un sommaire résumant très succinctement les ateliers :
 
 Introduction à l'IA. Premier atelier pratique sur la classification avec kNN.
 
-### 1 - Prédire un cancer du sein ?
+### 1 - Prédire le cancer du sein ?
 
 Brève présentation historique
 du problème de la détection du cancer du sein, apport de la data. Introduction
 aux concepts de validation croisée (train-test-split, K-Fold, stratification...).
 Introduction au concept d'hyper-paramètre et hyper-parameter tunning (pas encore 
 de grid search quelconque, juste une boucle). Autres métriques classiques pour la
-classification binaire (précision, rappel, f1). Standardisation, normalisation.
-Mention des questions d'interprétabilité et de réduction de dimension.
+classification binaire (précision, rappel, f1). Standardisation / Recalibrage.
+Introduction à la régression logistique, mention des questions d'interprétabilité.
+
+### 2 - Modèles linéaires généralisés
+
+Retour sur les notions abordées. Introduction plus formelle à la notion de modèle
+supervisé. Régression linéaire, pénalisations Ridge, Lasso.
+

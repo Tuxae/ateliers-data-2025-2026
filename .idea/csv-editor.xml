@@ -24,6 +24,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\atelier-2\data_prep\dataset_car.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\atelier-2\dataset_car.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
