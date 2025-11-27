@@ -36,3 +36,10 @@ Introduction à la régression logistique, mention des questions d'interprétabi
 Retour sur les notions abordées. Introduction plus formelle à la notion de modèle
 supervisé. Régression linéaire, pénalisations Ridge, Lasso.
 
+# Atelier 3 - Prédire les décès du Titanic ?
+
+Atelier d'introduction à Kaggle. Implémentation en python brut de premières 
+solutions naïves.
+
+# Atelier 4 - Prédire les décès du Titanic ? #2
+
