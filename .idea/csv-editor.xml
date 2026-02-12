@@ -52,6 +52,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\atelier-5\shapes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
