@@ -43,3 +43,5 @@ solutions naïves.
 
 # Atelier 4 - Prédire les décès du Titanic ? #2
 
+# Atelier 5 - Introduction au Deep Learning
+
